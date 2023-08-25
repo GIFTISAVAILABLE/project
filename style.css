@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.head {
+    color: red;
+}
+
+body {
+    background: beige;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
